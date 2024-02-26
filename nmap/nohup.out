@@ -1,0 +1,26 @@
+./enum4you.sh: line 18: read: read error: 0: Bad file descriptor
+[1;34m[+] Escaneando los puertos en [1;34m
+Failed to resolve "".
+WARNING: No targets were specified, so 0 hosts scanned.
+[1;34m[+] Puertos abiertos:[1;34m
+[1;31m[-] Puerto 20 cerrado[1;31m
+[1;31m[-] Puerto 21 cerrado[1;31m
+[1;31m[-] Puerto 22 cerrado[1;31m
+[1;31m[-] Puerto 25 cerrado[1;31m
+[1;31m[-] Puerto 53 cerrado[1;31m
+[1;31m[-] Puerto 80 cerrado[1;31m
+[1;31m[-] Puerto 123 cerrado[1;31m
+[1;31m[-] Puerto 179 cerrado[1;31m
+[1;31m[-] Puerto 443 cerrado[1;31m
+[1;31m[-] Puerto 500 cerrado[1;31m
+[1;31m[-] Puerto 587 cerrado[1;31m
+[1;31m[-] Puerto 3389 cerrado[1;31m
+[1;37m[+] Escaneo completado[1;37m
+[1;37m[+] Puertos abiertos guardados en /home/kali/Documents/nmap/PuertosAbiertos.txt[1;37m
+[1;34m[+] Escaneando vulnerabilidades[1;34m
+[1;34m[+] Escaneando vulnerabilidades en el puerto Puertos ()[1;34m
+Starting Nmap 7.94 ( https://nmap.org ) at 2024-01-15 07:54 EST
+Error #485: Your port specifications are illegal.  Example of proper form: "-100,200-1024,T:3000-4000,U:60000-"
+QUITTING!
+[0;32m[+] Vulnerabilidades escaneadas con éxito en el puerto Puertos ()[0;32m
+Puertos
